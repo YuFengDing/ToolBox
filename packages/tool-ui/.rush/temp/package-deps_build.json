@@ -1,0 +1,19 @@
+{
+  "files": {
+    "packages/tool-ui/.gitignore": "d451ff16c1010b8dc4285ef4d338028792a0ecd3",
+    "packages/tool-ui/.rush/temp/shrinkwrap-deps.json": "5ac55adba0cb2ae3d3b27a169c2184ba3263183b",
+    "packages/tool-ui/index.html": "38f386110323c3d06a7bb46193bb63261023dee8",
+    "packages/tool-ui/package.json": "2644f2778998163c9bd6f7f9ff8e9ef43488fc55",
+    "packages/tool-ui/pnpm-lock.yaml": "eabf57d46566ae8aaebcbeeb9dc409d7c977dde2",
+    "packages/tool-ui/src/App.css": "8da3fde63d9e7d893ca0eb8b85aec5ab43cadb53",
+    "packages/tool-ui/src/App.tsx": "296a7ee889fce427c5a40c1bb31a038ed3599a31",
+    "packages/tool-ui/src/favicon.svg": "de4aeddc12bdfe6c668dd57c6b457a659c058914",
+    "packages/tool-ui/src/index.css": "ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0",
+    "packages/tool-ui/src/logo.svg": "6b60c1042f58d9fabb75485aa3624dddcf633b5c",
+    "packages/tool-ui/src/main.tsx": "606a3cf44ec02bf1c481354445f110f547f5cec2",
+    "packages/tool-ui/src/vite-env.d.ts": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+    "packages/tool-ui/tsconfig.json": "013e6c54f0e3414d062098e00df484ea20b8c1ce",
+    "packages/tool-ui/vite.config.ts": "5e7342c934806b8680938c3aa72df2b23650f19d"
+  },
+  "arguments": "tsc && vite build "
+}

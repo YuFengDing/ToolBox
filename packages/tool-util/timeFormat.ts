@@ -1,0 +1,3 @@
+const dateFormat = () => {};
+
+export { dateFormat }

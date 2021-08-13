@@ -1,0 +1,6 @@
+Config file "/Users/dingyufeng/personal/ToolBox/packages/tool-util/config/rush-project.json" does not exist. Attempting to load via rig.
+
+No rig found for "/Users/dingyufeng/personal/ToolBox/packages/tool-util"
+
+Invoking: tsc 
+

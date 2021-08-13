@@ -1,0 +1,16 @@
+Config file "/Users/dingyufeng/personal/ToolBox/packages/tool-ui/config/rush-project.json" does not exist. Attempting to load via rig.
+
+No rig found for "/Users/dingyufeng/personal/ToolBox/packages/tool-ui"
+
+Invoking: tsc && vite build 
+
+vite v2.4.4 building for production...
+transforming...
+✓ 26 modules transformed.
+rendering chunks...
+dist/assets/favicon.17e50649.svg   1.49kb
+dist/assets/logo.ecc203fb.svg      2.61kb
+dist/index.html                    0.52kb
+dist/assets/index.0673ce28.css     0.76kb / brotli: 0.40kb
+dist/assets/index.804694fb.js      0.93kb / brotli: 0.38kb
+dist/assets/vendor.6990ad8d.js     127.61kb / brotli: 36.05kb

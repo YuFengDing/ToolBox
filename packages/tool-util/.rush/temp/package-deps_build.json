@@ -1,0 +1,11 @@
+{
+  "files": {
+    "packages/tool-util/.rush/temp/shrinkwrap-deps.json": "0967ef424bce6791893e9a57bb952f80fd536e93",
+    "packages/tool-util/index.ts": "2fab2dcc433fe22fa8627d2c7eb75972f7929cdf",
+    "packages/tool-util/package.json": "234943df892c4201eab7d9c47ff38dad511daf76",
+    "packages/tool-util/timeFormat.ts": "9ca689b7297dc568835327d504f1508fee2c879d",
+    "packages/tool-util/tool-util.build.log": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "packages/tool-util/tsconfig.json": "d65cbe67f086a75e46e9bdbf9a6f943dc679a357"
+  },
+  "arguments": "tsc "
+}
